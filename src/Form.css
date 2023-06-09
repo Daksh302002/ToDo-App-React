@@ -1,0 +1,16 @@
+body{
+    background-color: #0C134F
+}
+
+h1{
+    color:white;
+}
+
+.table{
+    
+    color:white;
+}
+
+.btn:hover{
+    border-radius:10px ;
+}
